@@ -4,7 +4,7 @@ body {
   }
 
   nav {
-    background-color: #007bff;
+    background-color: #0c5262;
   }
 
   nav a {
@@ -12,8 +12,8 @@ body {
   }
 
   header {
-    background: url('images/banner.jpg') no-repeat center center/cover;
-    color: white;
+    background: url('images/Logo.png') no-repeat center center/cover;
+    color: black;
     text-align: center;
     padding: 100px 20px;
   }
@@ -39,7 +39,7 @@ body {
   }
 
   footer {
-    background-color: #007bff;
+    background-color:#0c5262;
     color: white;
     text-align: center;
     padding: 20px 10px;
